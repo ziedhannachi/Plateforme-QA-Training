@@ -36,7 +36,7 @@ Ce dépôt contient une collection de **documents essentiels**, de guides et d'e
 Si vous avez des questions, des suggestions ou souhaitez échanger sur l'automatisation des tests, n'hésitez pas à me contacter :
 
 - **Email** : ziedhannachi0@gmail.com
-- **LinkedIn** : [Zied Hannachi](https://linkedin.com/in/ziedhannachi)
+- **LinkedIn** : [Zied Hannachi](https://www.linkedin.com/in/zied-hannachi-109247122)
 
 ---
 
